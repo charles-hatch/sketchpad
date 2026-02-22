@@ -1,1 +1,14 @@
+## Etch-a-Sketch
 
+A browser-based drawing grid application built as part of [The Odin Project](https://www.theodinproject.com/) Foundations curriculum.
+
+Users can draw by hovering over grid squares, with dynamic grid resizing and interactive color behavior.
+
+### Tech
+
+* HTML
+* CSS
+* JavaScript (DOM manipulation, dynamic grid generation)
+
+Built as part of:
+[The Odin Project – Foundations: Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
