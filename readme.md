@@ -6,9 +6,9 @@ Users can draw by hovering over grid squares, with dynamic grid resizing and int
 
 ### Tech
 
-* HTML
-* CSS
-* JavaScript (DOM manipulation, dynamic grid generation)
+- HTML
+- CSS
+- JavaScript (DOM manipulation, dynamic grid generation)
 
 Built as part of:
 [The Odin Project – Foundations: Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
